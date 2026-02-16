@@ -2,8 +2,9 @@
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue)](https://dotnet.microsoft.com/)
 [![NuGet](https://img.shields.io/nuget/v/HtmlPdfConverter)](https://www.nuget.org/packages/HtmlPdfConverter)
-[![Build](https://img.shields.io/github/actions/workflow/status/username/HtmlPdfConverter/dotnet.yml)](https://github.com/username/HtmlPdfConverter/actions)
 [![Tests](https://img.shields.io/badge/tests-xUnit-green)](https://github.com/username/HtmlPdfConverter/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 **HtmlPdfConverter** is a .NET 8 library for generating PDF documents from HTML templates. It supports **Handlebars** and **Stubble** template engines, rendering PDFs via **headless Chrome** or **Firefox** using PuppeteerSharp. The library allows dynamic data binding by passing a **dictionary** of placeholder keys and values to replace content in your templates.
 
@@ -78,4 +79,5 @@ Handling errors and edge cases
 
 ## License
 
-This project is licensed under the MIT License – see the LICENSE file.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
