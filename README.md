@@ -23,11 +23,6 @@
 
 ## Installation
 
-Install via NuGet:
-
-```bash
-dotnet add package HtmlPdfConverter
-```
 ---
 ## Usage Example
 
