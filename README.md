@@ -20,10 +20,6 @@
 - Robust error handling with custom exceptions  
 
 ---
-
-## Installation
-
----
 ## Usage Example
 
 ```csharp
