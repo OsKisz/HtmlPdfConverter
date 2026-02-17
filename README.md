@@ -17,7 +17,6 @@
 - Supports **Handlebars** and **Stubble** template engines  
 - Render PDFs using **Chrome** or **Firefox** browsers  
 - Configure PDF options: paper size, margins, etc. via `PdfOptions`  
-- Fully **asynchronous API** for high-performance scenarios  
 - Robust error handling with custom exceptions  
 
 ---
